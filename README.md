@@ -10,7 +10,7 @@
 
 **Backend Java Developer | Database Specialist | OOP Expert**
 
-[LinkedIn](#) • [Portfolio](#) • [Email](mailto:your.email@example.com)
+[LinkedIn](https://linkedin.com/in/chinnareddaiah-chagalamarri) • [Portfolio](https://chinnareddaiah-pi.vercel.app/) • [Email](mailto:chinnareddaiah.chagalamarri@gmail.com)
 
 </div>
 
@@ -113,3 +113,82 @@ Collection of algorithmic solutions strengthening problem-solving skills and int
 - Builds Java fundamentals
 
 **Sample Programs:**
+- Fibonacci series generation
+- Prime number checker
+- Palindrome validator
+- Armstrong number identifier
+- Pattern printing algorithms
+- String manipulation utilities
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chinnareddaiah38&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinnareddaiah38&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎯 **Computer Science Student**
+- 📚 **Java Programming Specialist**
+- 💾 **Database Management Expert**
+- 🏆 **Problem Solving & Algorithms**
+
+---
+
+## 💼 Professional Skills
+
+| Category | Skills |
+|----------|--------|
+| **Languages** | Java, SQL, HTML5, CSS3, JavaScript |
+| **Databases** | Oracle, MySQL |
+| **Tools & Tech** | JDBC, Git, VS Code, Eclipse, SQL Developer |
+| **Concepts** | OOP, Data Structures, Algorithms, SOLID Principles |
+| **Soft Skills** | Problem Solving, Code Architecture, Documentation |
+
+---
+
+## 🤝 Connect With Me
+
+I'm always eager to collaborate on exciting Java backend projects and learn from the developer community!
+
+- **LinkedIn:** [linkedin.com/in/chinnareddaiah-chagalamarri](https://linkedin.com/in/chinnareddaiah-chagalamarri)
+- **Portfolio:** [chinnareddaiah-pi.vercel.app](https://chinnareddaiah-pi.vercel.app/)
+- **Email:** [chinnareddaiah.chagalamarri@gmail.com](mailto:chinnareddaiah.chagalamarri@gmail.com)
+- **GitHub:** [@Chinnareddaiah38](https://github.com/Chinnareddaiah38)
+
+---
+
+## 📝 Latest Activities
+
+- 🔨 Building enterprise-grade backend systems with Java
+- 📚 Deepening expertise in database optimization
+- 🚀 Contributing to open-source projects
+- 💡 Sharing knowledge through technical documentation
+
+---
+
+## ⭐ Support
+
+If you find my projects helpful, please consider:
+- ⭐ Starring the repositories
+- 🔗 Following my GitHub profile
+- 💬 Connecting on LinkedIn
+- 📧 Reaching out for collaborations
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Chinna Reddaiah**
+
+*"Building robust backends, one commit at a time."*
+
+</div>
